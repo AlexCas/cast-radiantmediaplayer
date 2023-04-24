@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "demo-google-cast",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

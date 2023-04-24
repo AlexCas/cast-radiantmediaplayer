@@ -1,0 +1,7 @@
+{
+  "name": "demo-google-cast",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
